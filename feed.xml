@@ -3,7 +3,7 @@
     <title>Bagworth</title>
     <link href="https://bagworth.org.uk/feed.xml" rel="self" />
     <link href="https://bagworth.org.uk" />
-    <updated>2025-05-18T10:54:00+01:00</updated>
+    <updated>2025-05-18T11:11:32+01:00</updated>
     <author>
         <name>HAD</name>
     </author>
@@ -14,19 +14,22 @@
         <author>
             <name>RJ</name>
         </author>
-        <link href="https://bagworth.org.uk/the-leicester-and-swannington-railway/"/>
-        <id>https://bagworth.org.uk/the-leicester-and-swannington-railway/</id>
+        <link href="https://bagworth.org.uk/posts/the-leicester-and-swannington-railway/"/>
+        <id>https://bagworth.org.uk/posts/the-leicester-and-swannington-railway/</id>
+        <media:content url="https://bagworth.org.uk/media/posts/6/05-2.png" medium="image" />
             <category term="Railway"/>
             <category term="History"/>
 
         <updated>2025-05-18T10:53:55+01:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://bagworth.org.uk/media/posts/6/05-2.png" alt="" />
                     One of the earliest steam railways in the world An image representing July 17th 1832. A celebration for the opening&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://bagworth.org.uk/media/posts/6/05-2.png" class="type:primaryImage" alt="" /></p>
                 <table cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
